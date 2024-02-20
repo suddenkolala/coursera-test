@@ -1,2 +1,1 @@
-# coursera-test
-corsera test repository
+gh repo clone suddenkolala/coursera-test
